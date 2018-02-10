@@ -33,7 +33,7 @@ class ViewController: UIViewController {
 
     @IBAction func rollButtonPressed(_ sender: UIButton) {
         
-        updateDiceImages()  
+        updateDiceImages()
         
     }
     
@@ -49,4 +49,3 @@ class ViewController: UIViewController {
     }
     
 }
-
